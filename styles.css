@@ -1,0 +1,26 @@
+.navbar-container {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-container .logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 200px;
+}
+
+.navbar-container .header-nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    margin-right: 200px;
+}
+
+.navbar-container .header-nav .link {
+    font-size: 18px;
+    color: #E5E7EB;
+}
